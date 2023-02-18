@@ -1,7 +1,7 @@
 # this is exmattary repository
 - 👋 Hi, I’m @exmattary
 - 👀 I’m interested in Javascript, Php, Python, C++ and so on.
-- 🌱 I’m currently learning .
+- 🌱 I’m currently learning Medicine.
 <!--- 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
